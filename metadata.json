@@ -1,0 +1,6 @@
+{
+  "name": "Chi-Square Test Selector & Practice",
+  "description": "Interactive guide, decision flowchart, variable analyzer, and practice quiz for distinguishing Chi-Square Goodness-of-Fit and Independence tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
